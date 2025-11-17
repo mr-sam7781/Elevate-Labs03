@@ -1,0 +1,9 @@
+# Ignore local environment files
+*.log
+*.tmp
+.env
+
+
+# Editor files
+.vscode/
+*.swp
